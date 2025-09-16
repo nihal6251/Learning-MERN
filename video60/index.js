@@ -27,5 +27,4 @@ console.log(`Rohan\n"v`)
 // console.log(b.concat(a, "Aishwariya", "Rahul", "Priya"))
 
 // console.log(b)
-
-what is the name of the 
+// strings are immutable
