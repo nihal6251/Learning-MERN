@@ -1,4 +1,23 @@
-body{
+/* body{
     background-color: black;
     color: white;
+} */
+
+
+.left{
+    width: 25vw;
+}
+
+.right{
+    width: 75vw;
+}
+
+.home ul li {
+    display: flex;
+    gap: 3px;
+    list-style: none;
+}
+
+.home ul li img{
+    width: 14px;
 }
